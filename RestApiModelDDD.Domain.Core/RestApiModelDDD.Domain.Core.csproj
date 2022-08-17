@@ -43,11 +43,19 @@
     <Reference Include="Microsoft.Analytics.Types" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Interfaces\Repositores\IRepositoryClient.cs" />
+    <Compile Include="Interfaces\Repositores\IRepositoryBase.cs" />
+    <Compile Include="Interfaces\Repositores\IRepositoryProduct.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Interfaces\Repositores\" />
     <Folder Include="Interfaces\Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\RestApiModelDDD.Domain\RestApiModelDDD.Domain.csproj">
+      <Project>{607DB756-2E52-4C13-B412-6F5E87BA8D2F}</Project>
+      <Name>RestApiModelDDD.Domain</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

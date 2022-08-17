@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mainarti\\source\\repos\\ApiDDDEf\\RestApiDDD.API\\RestApiDDD.API.csproj",
+      "projectUniqueName": "C:\\Users\\Mainarti\\source\\repos\\RestApiDDD\\RestApiDDD.API\\RestApiDDD.API.csproj",
       "projectName": "RestApiDDD.API",
-      "projectPath": "C:\\Users\\Mainarti\\source\\repos\\ApiDDDEf\\RestApiDDD.API\\RestApiDDD.API.csproj",
+      "projectPath": "C:\\Users\\Mainarti\\source\\repos\\RestApiDDD\\RestApiDDD.API\\RestApiDDD.API.csproj",
       "packagesPath": "C:\\Users\\Mainarti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mainarti\\source\\repos\\ApiDDDEf\\RestApiDDD.API\\obj\\",
+      "outputPath": "C:\\Users\\Mainarti\\source\\repos\\RestApiDDD\\RestApiDDD.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mainarti\\AppData\\Roaming\\NuGet\\NuGet.Config",
