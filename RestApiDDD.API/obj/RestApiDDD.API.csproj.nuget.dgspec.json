@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mainarti\\source\\repos\\RestApiDDD\\RestApiDDD.API\\RestApiDDD.API.csproj": {}
+    "C:\\Users\\SAGATECH\\Desktop\\RestApiDDD\\RestApiDDD.API\\RestApiDDD.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mainarti\\source\\repos\\RestApiDDD\\RestApiDDD.API\\RestApiDDD.API.csproj": {
+    "C:\\Users\\SAGATECH\\Desktop\\RestApiDDD\\RestApiDDD.API\\RestApiDDD.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mainarti\\source\\repos\\RestApiDDD\\RestApiDDD.API\\RestApiDDD.API.csproj",
+        "projectUniqueName": "C:\\Users\\SAGATECH\\Desktop\\RestApiDDD\\RestApiDDD.API\\RestApiDDD.API.csproj",
         "projectName": "RestApiDDD.API",
-        "projectPath": "C:\\Users\\Mainarti\\source\\repos\\RestApiDDD\\RestApiDDD.API\\RestApiDDD.API.csproj",
-        "packagesPath": "C:\\Users\\Mainarti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mainarti\\source\\repos\\RestApiDDD\\RestApiDDD.API\\obj\\",
+        "projectPath": "C:\\Users\\SAGATECH\\Desktop\\RestApiDDD\\RestApiDDD.API\\RestApiDDD.API.csproj",
+        "packagesPath": "C:\\Users\\SAGATECH\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SAGATECH\\Desktop\\RestApiDDD\\RestApiDDD.API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Mainarti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SAGATECH\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

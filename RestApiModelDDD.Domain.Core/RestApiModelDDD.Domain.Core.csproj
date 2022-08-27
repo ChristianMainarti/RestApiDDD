@@ -43,14 +43,15 @@
     <Reference Include="Microsoft.Analytics.Types" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Interfaces\Repositores\IRepositoryClient.cs" />
-    <Compile Include="Interfaces\Repositores\IRepositoryBase.cs" />
-    <Compile Include="Interfaces\Repositores\IRepositoryProduct.cs" />
+    <Compile Include="Interfaces\Repositorys\IRepositoryClient.cs" />
+    <Compile Include="Interfaces\Repositorys\IRepositoryBase.cs" />
+    <Compile Include="Interfaces\Repositorys\IRepositoryProduct.cs" />
+    <Compile Include="Interfaces\Services\IServiceBase.cs" />
+    <Compile Include="Interfaces\Services\IServiceClient.cs" />
+    <Compile Include="Interfaces\Services\IServiceProduct.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Interfaces\Services\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\RestApiModelDDD.Domain\RestApiModelDDD.Domain.csproj">
       <Project>{607DB756-2E52-4C13-B412-6F5E87BA8D2F}</Project>
